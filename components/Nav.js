@@ -25,16 +25,16 @@ export default function Nav() {
       <div className="sm:hidden flex">Meeu</div>
 
       <div className="sm:flex hidden mr-5">
-        <ul className="flex gap-10 flex-row list-none md:text-sm">
+        <ul className="flex gap-10 flex-row list-none md:text-sm ">
           <Link href="/">
-            <li>Home</li>
+            <li className=" text-[0.72vw]">Home</li>
           </Link>
           <Link href="/courses">
-            <li>Courses</li>
+            <li className=" text-[0.72vw]">Courses</li>
           </Link>
 
           <Link href="/about">
-            <li className="w-max">About Manasa</li>
+            <li className="w-max text-[0.72vw]">About Manasa</li>
           </Link>
         </ul>
       </div>

@@ -23,7 +23,7 @@ export default function Home() {
               target="_blank"
               href="https://www.youtube.com/channel/UCk1O913biJXMe6KWbBbOnng"
             >
-              <div className="sm:w-max w-[40vw] sm:text-[1.5vw] bg-green-300 rounded-3xl flex justify-center align-middle gap-1 p-2">
+              <div className="sm:w-max w-[40vw] sm:text-[1.2vw] bg-green-300 rounded-3xl flex justify-center align-middle gap-1 p-2 pl-5 pr-5">
                 <Image
                   src="/assets/imgs/youtube.png"
                   alt="profile"
@@ -38,7 +38,7 @@ export default function Home() {
               target="_blank"
               href="https://www.instagram.com/maazzaa.almagthob/"
             >
-              <div className="sm:w-max w-[40vw] sm:text-[1.5vw] bg-green-300 rounded-3xl flex justify-center align-middle gap-1 p-2">
+              <div className="sm:w-max w-[40vw] sm:text-[1.2vw] bg-green-300 rounded-3xl flex justify-center align-middle gap-1 p-2 pl-5 pr-5">
                 <Image
                   src="/assets/imgs/instagram.png"
                   alt="profile"
